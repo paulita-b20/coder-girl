@@ -30,9 +30,8 @@
 .txt-w{
     color: white; 
 }
-.incribete {
-    background-color: #0e40e8;
-    border-radius: 50px;
+.Inscríbete{
+    cursor: pointer;
 }
 .enlace{
 	color: grey;
@@ -60,7 +59,7 @@
 	padding-top: 3%;
 }
 .pad-10{
-	padding:5%;
+	padding:4%;
 }
 .pad-2{
 	padding:2%;
@@ -120,7 +119,7 @@ textarea{
 	color: white;
 	width: 20%;
 }
-.boton:hover{
+.botonhover{
 	cursor: pointer;
 }
 
